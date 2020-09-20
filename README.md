@@ -5,4 +5,6 @@ Start this tool and enter a domain like google.com.
 You will see the provided mechanism from sslv2 - tlsv1.3.
 Let me know if i forget any mechanism.
 
+- Use parameter **-v** to check the current version
+
 **Cheers**
