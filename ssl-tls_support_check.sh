@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 # This script checks the encryption mechanism for a HTTPS site. I check the mechanism SSLv2 until TLSv1.3
+#######################################
+# Author on GitHub: MoBlockbuster     #
+#######################################
 
-VERSION="2020093001"
+VERSION="2020100601"
 
 # Show version of tool
 if [ "$1" == "-v" ]
